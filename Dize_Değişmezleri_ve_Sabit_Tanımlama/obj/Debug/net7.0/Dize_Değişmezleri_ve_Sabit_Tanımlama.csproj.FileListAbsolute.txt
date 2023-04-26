@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/Dize_Değişmezleri_ve_Sabit_Tanımlama/obj/Debug/net7.0/Dize_Değişmezleri_ve_Sabit_Tanımlama.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/Dize_Değişmezleri_ve_Sabit_Tanımlama/obj/Debug/net7.0/Dize_Değişmezleri_ve_Sabit_Tanımlama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/Dize_Değişmezleri_ve_Sabit_Tanımlama/obj/Debug/net7.0/Dize_Değişmezleri_ve_Sabit_Tanımlama.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Dize_Değişmezleri_ve_Sabit_Tanımlama/obj/Debug/net7.0/Dize_Değişmezleri_ve_Sabit_Tanımlama.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/Dize_Değişmezleri_ve_Sabit_Tanımlama/obj/Debug/net7.0/Dize_Değişmezleri_ve_Sabit_Tanımlama.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Dize_Değişmezleri_ve_Sabit_Tanımlama/bin/Debug/net7.0/Dize_Değişmezleri_ve_Sabit_Tanımlama
+/Users/osmanbatuhankalkan/Desktop/Dize_Değişmezleri_ve_Sabit_Tanımlama/bin/Debug/net7.0/Dize_Değişmezleri_ve_Sabit_Tanımlama.deps.json
+/Users/osmanbatuhankalkan/Desktop/Dize_Değişmezleri_ve_Sabit_Tanımlama/bin/Debug/net7.0/Dize_Değişmezleri_ve_Sabit_Tanımlama.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/Dize_Değişmezleri_ve_Sabit_Tanımlama/bin/Debug/net7.0/Dize_Değişmezleri_ve_Sabit_Tanımlama.dll
+/Users/osmanbatuhankalkan/Desktop/Dize_Değişmezleri_ve_Sabit_Tanımlama/bin/Debug/net7.0/Dize_Değişmezleri_ve_Sabit_Tanımlama.pdb
+/Users/osmanbatuhankalkan/Desktop/Dize_Değişmezleri_ve_Sabit_Tanımlama/obj/Debug/net7.0/Dize_Değişmezleri_ve_Sabit_Tanımlama.dll
+/Users/osmanbatuhankalkan/Desktop/Dize_Değişmezleri_ve_Sabit_Tanımlama/obj/Debug/net7.0/refint/Dize_Değişmezleri_ve_Sabit_Tanımlama.dll
+/Users/osmanbatuhankalkan/Desktop/Dize_Değişmezleri_ve_Sabit_Tanımlama/obj/Debug/net7.0/Dize_Değişmezleri_ve_Sabit_Tanımlama.pdb
+/Users/osmanbatuhankalkan/Desktop/Dize_Değişmezleri_ve_Sabit_Tanımlama/obj/Debug/net7.0/Dize_Değişmezleri_ve_Sabit_Tanımlama.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/Dize_Değişmezleri_ve_Sabit_Tanımlama/obj/Debug/net7.0/ref/Dize_Değişmezleri_ve_Sabit_Tanımlama.dll
