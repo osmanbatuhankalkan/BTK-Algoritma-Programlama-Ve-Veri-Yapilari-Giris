@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/Karakter_Sabitleri-BTK/bin/Debug/net7.0/Karakter_Sabitleri-BTK
+/Users/osmanbatuhankalkan/Desktop/Karakter_Sabitleri-BTK/bin/Debug/net7.0/Karakter_Sabitleri-BTK.deps.json
+/Users/osmanbatuhankalkan/Desktop/Karakter_Sabitleri-BTK/bin/Debug/net7.0/Karakter_Sabitleri-BTK.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/Karakter_Sabitleri-BTK/bin/Debug/net7.0/Karakter_Sabitleri-BTK.dll
+/Users/osmanbatuhankalkan/Desktop/Karakter_Sabitleri-BTK/bin/Debug/net7.0/Karakter_Sabitleri-BTK.pdb
+/Users/osmanbatuhankalkan/Desktop/Karakter_Sabitleri-BTK/obj/Debug/net7.0/Karakter_Sabitleri-BTK.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/Karakter_Sabitleri-BTK/obj/Debug/net7.0/Karakter_Sabitleri-BTK.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/Karakter_Sabitleri-BTK/obj/Debug/net7.0/Karakter_Sabitleri-BTK.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Karakter_Sabitleri-BTK/obj/Debug/net7.0/Karakter_Sabitleri-BTK.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/Karakter_Sabitleri-BTK/obj/Debug/net7.0/Karakter_Sabitleri-BTK.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Karakter_Sabitleri-BTK/obj/Debug/net7.0/Karakter_Sabitleri-BTK.dll
+/Users/osmanbatuhankalkan/Desktop/Karakter_Sabitleri-BTK/obj/Debug/net7.0/refint/Karakter_Sabitleri-BTK.dll
+/Users/osmanbatuhankalkan/Desktop/Karakter_Sabitleri-BTK/obj/Debug/net7.0/Karakter_Sabitleri-BTK.pdb
+/Users/osmanbatuhankalkan/Desktop/Karakter_Sabitleri-BTK/obj/Debug/net7.0/Karakter_Sabitleri-BTK.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/Karakter_Sabitleri-BTK/obj/Debug/net7.0/ref/Karakter_Sabitleri-BTK.dll
