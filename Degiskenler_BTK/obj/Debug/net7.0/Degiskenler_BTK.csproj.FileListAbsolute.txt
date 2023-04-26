@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/BTK-Algoritma-Programlama-Ve-Veri-Yapılarına-Giriş/Degiskenler_BTK/bin/Debug/net7.0/Degiskenler_BTK
+/Users/osmanbatuhankalkan/Desktop/BTK-Algoritma-Programlama-Ve-Veri-Yapılarına-Giriş/Degiskenler_BTK/bin/Debug/net7.0/Degiskenler_BTK.deps.json
+/Users/osmanbatuhankalkan/Desktop/BTK-Algoritma-Programlama-Ve-Veri-Yapılarına-Giriş/Degiskenler_BTK/bin/Debug/net7.0/Degiskenler_BTK.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/BTK-Algoritma-Programlama-Ve-Veri-Yapılarına-Giriş/Degiskenler_BTK/bin/Debug/net7.0/Degiskenler_BTK.dll
+/Users/osmanbatuhankalkan/Desktop/BTK-Algoritma-Programlama-Ve-Veri-Yapılarına-Giriş/Degiskenler_BTK/bin/Debug/net7.0/Degiskenler_BTK.pdb
+/Users/osmanbatuhankalkan/Desktop/BTK-Algoritma-Programlama-Ve-Veri-Yapılarına-Giriş/Degiskenler_BTK/obj/Debug/net7.0/Degiskenler_BTK.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/BTK-Algoritma-Programlama-Ve-Veri-Yapılarına-Giriş/Degiskenler_BTK/obj/Debug/net7.0/Degiskenler_BTK.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/BTK-Algoritma-Programlama-Ve-Veri-Yapılarına-Giriş/Degiskenler_BTK/obj/Debug/net7.0/Degiskenler_BTK.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/BTK-Algoritma-Programlama-Ve-Veri-Yapılarına-Giriş/Degiskenler_BTK/obj/Debug/net7.0/Degiskenler_BTK.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/BTK-Algoritma-Programlama-Ve-Veri-Yapılarına-Giriş/Degiskenler_BTK/obj/Debug/net7.0/Degiskenler_BTK.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/BTK-Algoritma-Programlama-Ve-Veri-Yapılarına-Giriş/Degiskenler_BTK/obj/Debug/net7.0/Degiskenler_BTK.dll
+/Users/osmanbatuhankalkan/Desktop/BTK-Algoritma-Programlama-Ve-Veri-Yapılarına-Giriş/Degiskenler_BTK/obj/Debug/net7.0/refint/Degiskenler_BTK.dll
+/Users/osmanbatuhankalkan/Desktop/BTK-Algoritma-Programlama-Ve-Veri-Yapılarına-Giriş/Degiskenler_BTK/obj/Debug/net7.0/Degiskenler_BTK.pdb
+/Users/osmanbatuhankalkan/Desktop/BTK-Algoritma-Programlama-Ve-Veri-Yapılarına-Giriş/Degiskenler_BTK/obj/Debug/net7.0/Degiskenler_BTK.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/BTK-Algoritma-Programlama-Ve-Veri-Yapılarına-Giriş/Degiskenler_BTK/obj/Debug/net7.0/ref/Degiskenler_BTK.dll
