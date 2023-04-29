@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/IF-ELSE-Yapısı/bin/Debug/net7.0/IF-ELSE-Yapısı
+/Users/osmanbatuhankalkan/Desktop/IF-ELSE-Yapısı/bin/Debug/net7.0/IF-ELSE-Yapısı.deps.json
+/Users/osmanbatuhankalkan/Desktop/IF-ELSE-Yapısı/bin/Debug/net7.0/IF-ELSE-Yapısı.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/IF-ELSE-Yapısı/bin/Debug/net7.0/IF-ELSE-Yapısı.dll
+/Users/osmanbatuhankalkan/Desktop/IF-ELSE-Yapısı/bin/Debug/net7.0/IF-ELSE-Yapısı.pdb
+/Users/osmanbatuhankalkan/Desktop/IF-ELSE-Yapısı/obj/Debug/net7.0/IF-ELSE-Yapısı.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/IF-ELSE-Yapısı/obj/Debug/net7.0/IF-ELSE-Yapısı.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/IF-ELSE-Yapısı/obj/Debug/net7.0/IF-ELSE-Yapısı.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/IF-ELSE-Yapısı/obj/Debug/net7.0/IF-ELSE-Yapısı.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/IF-ELSE-Yapısı/obj/Debug/net7.0/IF-ELSE-Yapısı.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/IF-ELSE-Yapısı/obj/Debug/net7.0/IF-ELSE-Yapısı.dll
+/Users/osmanbatuhankalkan/Desktop/IF-ELSE-Yapısı/obj/Debug/net7.0/refint/IF-ELSE-Yapısı.dll
+/Users/osmanbatuhankalkan/Desktop/IF-ELSE-Yapısı/obj/Debug/net7.0/IF-ELSE-Yapısı.pdb
+/Users/osmanbatuhankalkan/Desktop/IF-ELSE-Yapısı/obj/Debug/net7.0/IF-ELSE-Yapısı.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/IF-ELSE-Yapısı/obj/Debug/net7.0/ref/IF-ELSE-Yapısı.dll
