@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/Operatorler-BTK/obj/Debug/net7.0/Operatorler-BTK.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/Operatorler-BTK/obj/Debug/net7.0/Operatorler-BTK.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/Operatorler-BTK/obj/Debug/net7.0/Operatorler-BTK.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Operatorler-BTK/obj/Debug/net7.0/Operatorler-BTK.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/Operatorler-BTK/obj/Debug/net7.0/Operatorler-BTK.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Operatorler-BTK/bin/Debug/net7.0/Operatorler-BTK
+/Users/osmanbatuhankalkan/Desktop/Operatorler-BTK/bin/Debug/net7.0/Operatorler-BTK.deps.json
+/Users/osmanbatuhankalkan/Desktop/Operatorler-BTK/bin/Debug/net7.0/Operatorler-BTK.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/Operatorler-BTK/bin/Debug/net7.0/Operatorler-BTK.dll
+/Users/osmanbatuhankalkan/Desktop/Operatorler-BTK/bin/Debug/net7.0/Operatorler-BTK.pdb
+/Users/osmanbatuhankalkan/Desktop/Operatorler-BTK/obj/Debug/net7.0/Operatorler-BTK.dll
+/Users/osmanbatuhankalkan/Desktop/Operatorler-BTK/obj/Debug/net7.0/refint/Operatorler-BTK.dll
+/Users/osmanbatuhankalkan/Desktop/Operatorler-BTK/obj/Debug/net7.0/Operatorler-BTK.pdb
+/Users/osmanbatuhankalkan/Desktop/Operatorler-BTK/obj/Debug/net7.0/Operatorler-BTK.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/Operatorler-BTK/obj/Debug/net7.0/ref/Operatorler-BTK.dll
