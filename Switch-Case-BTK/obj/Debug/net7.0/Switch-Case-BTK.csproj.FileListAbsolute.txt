@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/Switch-Case-BTK/bin/Debug/net7.0/Switch-Case-BTK
+/Users/osmanbatuhankalkan/Desktop/Switch-Case-BTK/bin/Debug/net7.0/Switch-Case-BTK.deps.json
+/Users/osmanbatuhankalkan/Desktop/Switch-Case-BTK/bin/Debug/net7.0/Switch-Case-BTK.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/Switch-Case-BTK/bin/Debug/net7.0/Switch-Case-BTK.dll
+/Users/osmanbatuhankalkan/Desktop/Switch-Case-BTK/bin/Debug/net7.0/Switch-Case-BTK.pdb
+/Users/osmanbatuhankalkan/Desktop/Switch-Case-BTK/obj/Debug/net7.0/Switch-Case-BTK.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/Switch-Case-BTK/obj/Debug/net7.0/Switch-Case-BTK.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/Switch-Case-BTK/obj/Debug/net7.0/Switch-Case-BTK.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Switch-Case-BTK/obj/Debug/net7.0/Switch-Case-BTK.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/Switch-Case-BTK/obj/Debug/net7.0/Switch-Case-BTK.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Switch-Case-BTK/obj/Debug/net7.0/Switch-Case-BTK.dll
+/Users/osmanbatuhankalkan/Desktop/Switch-Case-BTK/obj/Debug/net7.0/refint/Switch-Case-BTK.dll
+/Users/osmanbatuhankalkan/Desktop/Switch-Case-BTK/obj/Debug/net7.0/Switch-Case-BTK.pdb
+/Users/osmanbatuhankalkan/Desktop/Switch-Case-BTK/obj/Debug/net7.0/Switch-Case-BTK.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/Switch-Case-BTK/obj/Debug/net7.0/ref/Switch-Case-BTK.dll
