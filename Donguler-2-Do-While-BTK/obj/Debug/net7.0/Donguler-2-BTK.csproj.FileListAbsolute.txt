@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/Donguler-2-BTK/bin/Debug/net7.0/Donguler-2-BTK
+/Users/osmanbatuhankalkan/Desktop/Donguler-2-BTK/bin/Debug/net7.0/Donguler-2-BTK.deps.json
+/Users/osmanbatuhankalkan/Desktop/Donguler-2-BTK/bin/Debug/net7.0/Donguler-2-BTK.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/Donguler-2-BTK/bin/Debug/net7.0/Donguler-2-BTK.dll
+/Users/osmanbatuhankalkan/Desktop/Donguler-2-BTK/bin/Debug/net7.0/Donguler-2-BTK.pdb
+/Users/osmanbatuhankalkan/Desktop/Donguler-2-BTK/obj/Debug/net7.0/Donguler-2-BTK.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/Donguler-2-BTK/obj/Debug/net7.0/Donguler-2-BTK.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/Donguler-2-BTK/obj/Debug/net7.0/Donguler-2-BTK.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Donguler-2-BTK/obj/Debug/net7.0/Donguler-2-BTK.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/Donguler-2-BTK/obj/Debug/net7.0/Donguler-2-BTK.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Donguler-2-BTK/obj/Debug/net7.0/Donguler-2-BTK.dll
+/Users/osmanbatuhankalkan/Desktop/Donguler-2-BTK/obj/Debug/net7.0/refint/Donguler-2-BTK.dll
+/Users/osmanbatuhankalkan/Desktop/Donguler-2-BTK/obj/Debug/net7.0/Donguler-2-BTK.pdb
+/Users/osmanbatuhankalkan/Desktop/Donguler-2-BTK/obj/Debug/net7.0/Donguler-2-BTK.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/Donguler-2-BTK/obj/Debug/net7.0/ref/Donguler-2-BTK.dll

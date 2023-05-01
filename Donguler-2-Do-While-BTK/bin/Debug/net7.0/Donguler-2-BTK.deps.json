@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Donguler-2-BTK/1.0.0": {
+        "runtime": {
+          "Donguler-2-BTK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Donguler-2-BTK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
