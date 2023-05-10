@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/Çok-Boyutlu-Diziler-BTK-2/bin/Debug/net7.0/Çok-Boyutlu-Diziler-BTK-2
+/Users/osmanbatuhankalkan/Desktop/Çok-Boyutlu-Diziler-BTK-2/bin/Debug/net7.0/Çok-Boyutlu-Diziler-BTK-2.deps.json
+/Users/osmanbatuhankalkan/Desktop/Çok-Boyutlu-Diziler-BTK-2/bin/Debug/net7.0/Çok-Boyutlu-Diziler-BTK-2.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/Çok-Boyutlu-Diziler-BTK-2/bin/Debug/net7.0/Çok-Boyutlu-Diziler-BTK-2.dll
+/Users/osmanbatuhankalkan/Desktop/Çok-Boyutlu-Diziler-BTK-2/bin/Debug/net7.0/Çok-Boyutlu-Diziler-BTK-2.pdb
+/Users/osmanbatuhankalkan/Desktop/Çok-Boyutlu-Diziler-BTK-2/obj/Debug/net7.0/Çok-Boyutlu-Diziler-BTK-2.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/Çok-Boyutlu-Diziler-BTK-2/obj/Debug/net7.0/Çok-Boyutlu-Diziler-BTK-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/Çok-Boyutlu-Diziler-BTK-2/obj/Debug/net7.0/Çok-Boyutlu-Diziler-BTK-2.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Çok-Boyutlu-Diziler-BTK-2/obj/Debug/net7.0/Çok-Boyutlu-Diziler-BTK-2.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/Çok-Boyutlu-Diziler-BTK-2/obj/Debug/net7.0/Çok-Boyutlu-Diziler-BTK-2.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Çok-Boyutlu-Diziler-BTK-2/obj/Debug/net7.0/Çok-Boyutlu-Diziler-BTK-2.dll
+/Users/osmanbatuhankalkan/Desktop/Çok-Boyutlu-Diziler-BTK-2/obj/Debug/net7.0/refint/Çok-Boyutlu-Diziler-BTK-2.dll
+/Users/osmanbatuhankalkan/Desktop/Çok-Boyutlu-Diziler-BTK-2/obj/Debug/net7.0/Çok-Boyutlu-Diziler-BTK-2.pdb
+/Users/osmanbatuhankalkan/Desktop/Çok-Boyutlu-Diziler-BTK-2/obj/Debug/net7.0/Çok-Boyutlu-Diziler-BTK-2.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/Çok-Boyutlu-Diziler-BTK-2/obj/Debug/net7.0/ref/Çok-Boyutlu-Diziler-BTK-2.dll
