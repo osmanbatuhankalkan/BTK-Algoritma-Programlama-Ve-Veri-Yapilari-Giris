@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/Listeler/bin/Debug/net7.0/Listeler
+/Users/osmanbatuhankalkan/Desktop/Listeler/bin/Debug/net7.0/Listeler.deps.json
+/Users/osmanbatuhankalkan/Desktop/Listeler/bin/Debug/net7.0/Listeler.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/Listeler/bin/Debug/net7.0/Listeler.dll
+/Users/osmanbatuhankalkan/Desktop/Listeler/bin/Debug/net7.0/Listeler.pdb
+/Users/osmanbatuhankalkan/Desktop/Listeler/obj/Debug/net7.0/Listeler.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/Listeler/obj/Debug/net7.0/Listeler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/Listeler/obj/Debug/net7.0/Listeler.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Listeler/obj/Debug/net7.0/Listeler.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/Listeler/obj/Debug/net7.0/Listeler.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Listeler/obj/Debug/net7.0/Listeler.dll
+/Users/osmanbatuhankalkan/Desktop/Listeler/obj/Debug/net7.0/refint/Listeler.dll
+/Users/osmanbatuhankalkan/Desktop/Listeler/obj/Debug/net7.0/Listeler.pdb
+/Users/osmanbatuhankalkan/Desktop/Listeler/obj/Debug/net7.0/Listeler.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/Listeler/obj/Debug/net7.0/ref/Listeler.dll
