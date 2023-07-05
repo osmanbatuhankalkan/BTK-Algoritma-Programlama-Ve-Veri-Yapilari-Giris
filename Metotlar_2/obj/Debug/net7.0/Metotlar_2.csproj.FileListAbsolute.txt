@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/Metotlar_2/bin/Debug/net7.0/Metotlar_2
+/Users/osmanbatuhankalkan/Desktop/Metotlar_2/bin/Debug/net7.0/Metotlar_2.deps.json
+/Users/osmanbatuhankalkan/Desktop/Metotlar_2/bin/Debug/net7.0/Metotlar_2.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/Metotlar_2/bin/Debug/net7.0/Metotlar_2.dll
+/Users/osmanbatuhankalkan/Desktop/Metotlar_2/bin/Debug/net7.0/Metotlar_2.pdb
+/Users/osmanbatuhankalkan/Desktop/Metotlar_2/obj/Debug/net7.0/Metotlar_2.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/Metotlar_2/obj/Debug/net7.0/Metotlar_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/Metotlar_2/obj/Debug/net7.0/Metotlar_2.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Metotlar_2/obj/Debug/net7.0/Metotlar_2.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/Metotlar_2/obj/Debug/net7.0/Metotlar_2.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Metotlar_2/obj/Debug/net7.0/Metotlar_2.dll
+/Users/osmanbatuhankalkan/Desktop/Metotlar_2/obj/Debug/net7.0/refint/Metotlar_2.dll
+/Users/osmanbatuhankalkan/Desktop/Metotlar_2/obj/Debug/net7.0/Metotlar_2.pdb
+/Users/osmanbatuhankalkan/Desktop/Metotlar_2/obj/Debug/net7.0/Metotlar_2.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/Metotlar_2/obj/Debug/net7.0/ref/Metotlar_2.dll
