@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/Metotların_Aşırı_Yuklenmesi/bin/Debug/net7.0/Metotların_Aşırı_Yuklenmesi
+/Users/osmanbatuhankalkan/Desktop/Metotların_Aşırı_Yuklenmesi/bin/Debug/net7.0/Metotların_Aşırı_Yuklenmesi.deps.json
+/Users/osmanbatuhankalkan/Desktop/Metotların_Aşırı_Yuklenmesi/bin/Debug/net7.0/Metotların_Aşırı_Yuklenmesi.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/Metotların_Aşırı_Yuklenmesi/bin/Debug/net7.0/Metotların_Aşırı_Yuklenmesi.dll
+/Users/osmanbatuhankalkan/Desktop/Metotların_Aşırı_Yuklenmesi/bin/Debug/net7.0/Metotların_Aşırı_Yuklenmesi.pdb
+/Users/osmanbatuhankalkan/Desktop/Metotların_Aşırı_Yuklenmesi/obj/Debug/net7.0/Metotların_Aşırı_Yuklenmesi.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/Metotların_Aşırı_Yuklenmesi/obj/Debug/net7.0/Metotların_Aşırı_Yuklenmesi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/Metotların_Aşırı_Yuklenmesi/obj/Debug/net7.0/Metotların_Aşırı_Yuklenmesi.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Metotların_Aşırı_Yuklenmesi/obj/Debug/net7.0/Metotların_Aşırı_Yuklenmesi.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/Metotların_Aşırı_Yuklenmesi/obj/Debug/net7.0/Metotların_Aşırı_Yuklenmesi.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Metotların_Aşırı_Yuklenmesi/obj/Debug/net7.0/Metotların_Aşırı_Yuklenmesi.dll
+/Users/osmanbatuhankalkan/Desktop/Metotların_Aşırı_Yuklenmesi/obj/Debug/net7.0/refint/Metotların_Aşırı_Yuklenmesi.dll
+/Users/osmanbatuhankalkan/Desktop/Metotların_Aşırı_Yuklenmesi/obj/Debug/net7.0/Metotların_Aşırı_Yuklenmesi.pdb
+/Users/osmanbatuhankalkan/Desktop/Metotların_Aşırı_Yuklenmesi/obj/Debug/net7.0/Metotların_Aşırı_Yuklenmesi.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/Metotların_Aşırı_Yuklenmesi/obj/Debug/net7.0/ref/Metotların_Aşırı_Yuklenmesi.dll
