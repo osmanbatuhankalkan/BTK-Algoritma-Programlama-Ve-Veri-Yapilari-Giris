@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/Deger_ve_Referans_Tipler/bin/Debug/net7.0/Deger_ve_Referans_Tipler
+/Users/osmanbatuhankalkan/Desktop/Deger_ve_Referans_Tipler/bin/Debug/net7.0/Deger_ve_Referans_Tipler.deps.json
+/Users/osmanbatuhankalkan/Desktop/Deger_ve_Referans_Tipler/bin/Debug/net7.0/Deger_ve_Referans_Tipler.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/Deger_ve_Referans_Tipler/bin/Debug/net7.0/Deger_ve_Referans_Tipler.dll
+/Users/osmanbatuhankalkan/Desktop/Deger_ve_Referans_Tipler/bin/Debug/net7.0/Deger_ve_Referans_Tipler.pdb
+/Users/osmanbatuhankalkan/Desktop/Deger_ve_Referans_Tipler/obj/Debug/net7.0/Deger_ve_Referans_Tipler.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/Deger_ve_Referans_Tipler/obj/Debug/net7.0/Deger_ve_Referans_Tipler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/Deger_ve_Referans_Tipler/obj/Debug/net7.0/Deger_ve_Referans_Tipler.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Deger_ve_Referans_Tipler/obj/Debug/net7.0/Deger_ve_Referans_Tipler.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/Deger_ve_Referans_Tipler/obj/Debug/net7.0/Deger_ve_Referans_Tipler.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Deger_ve_Referans_Tipler/obj/Debug/net7.0/Deger_ve_Referans_Tipler.dll
+/Users/osmanbatuhankalkan/Desktop/Deger_ve_Referans_Tipler/obj/Debug/net7.0/refint/Deger_ve_Referans_Tipler.dll
+/Users/osmanbatuhankalkan/Desktop/Deger_ve_Referans_Tipler/obj/Debug/net7.0/Deger_ve_Referans_Tipler.pdb
+/Users/osmanbatuhankalkan/Desktop/Deger_ve_Referans_Tipler/obj/Debug/net7.0/Deger_ve_Referans_Tipler.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/Deger_ve_Referans_Tipler/obj/Debug/net7.0/ref/Deger_ve_Referans_Tipler.dll
