@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/Liste_Uygulaması/bin/Debug/net7.0/Liste_Uygulaması
+/Users/osmanbatuhankalkan/Desktop/Liste_Uygulaması/bin/Debug/net7.0/Liste_Uygulaması.deps.json
+/Users/osmanbatuhankalkan/Desktop/Liste_Uygulaması/bin/Debug/net7.0/Liste_Uygulaması.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/Liste_Uygulaması/bin/Debug/net7.0/Liste_Uygulaması.dll
+/Users/osmanbatuhankalkan/Desktop/Liste_Uygulaması/bin/Debug/net7.0/Liste_Uygulaması.pdb
+/Users/osmanbatuhankalkan/Desktop/Liste_Uygulaması/obj/Debug/net7.0/Liste_Uygulaması.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/Liste_Uygulaması/obj/Debug/net7.0/Liste_Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/Liste_Uygulaması/obj/Debug/net7.0/Liste_Uygulaması.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Liste_Uygulaması/obj/Debug/net7.0/Liste_Uygulaması.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/Liste_Uygulaması/obj/Debug/net7.0/Liste_Uygulaması.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Liste_Uygulaması/obj/Debug/net7.0/Liste_Uygulaması.dll
+/Users/osmanbatuhankalkan/Desktop/Liste_Uygulaması/obj/Debug/net7.0/refint/Liste_Uygulaması.dll
+/Users/osmanbatuhankalkan/Desktop/Liste_Uygulaması/obj/Debug/net7.0/Liste_Uygulaması.pdb
+/Users/osmanbatuhankalkan/Desktop/Liste_Uygulaması/obj/Debug/net7.0/Liste_Uygulaması.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/Liste_Uygulaması/obj/Debug/net7.0/ref/Liste_Uygulaması.dll
